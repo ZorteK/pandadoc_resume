@@ -203,7 +203,7 @@ Ingénieur R&D, France Telecom R&D
 Open Source
 ---------
 
-**Projet Terreze** (plateforme des données territoriales).
+**Projet Terreze** (plateforme de données territoriales).
 Plateforme open source big data de collecte et de traitement numérique des données territoriales.
 
 Ref : https://forge.naos-cluster.tech/terreze/back
