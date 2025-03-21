@@ -64,7 +64,7 @@ Expériences
 ----------
 ----
 
-Septembre 2024 - Aujourd'hui
+Septembre 2024 - Février 2025
 
 **Tech Leader** Voltalis : Paris
 
@@ -81,7 +81,7 @@ Développement sur l'ERP de Voltalis pour la gestion d'une flotte de thermostats
 
 ----
 
-2022 - 2024
+Mai 2022 - Août 2024
 
 **Responsable technique/Développeur senior** Citéos Solutions Digitales : Projet La rochelle territoire zéro carbone
 
@@ -110,7 +110,7 @@ visualiser les avancées globales du projet.
 ----
 
 
-2020 - 2022
+Janvier 2020 - Mai 2022
 
 **Team Lead Backend Java** Energisme : Boulogne Billancourt
 
@@ -132,7 +132,7 @@ Team lead d'une feature team de 5 personnes (3 développeurs), pour le service d
 
 ----
 
-2016 - 2019
+Mai 2016 - Décembre 2019
 
 **Tech Lead Java** Médiatransport : Issy-les-moulineaux
 
@@ -149,7 +149,7 @@ En charge d'une des deux features teams de la DSI Médiatransport, sur l'applica
 ----
 
 
-2012 - 2016
+Octobre 2012 - Mai 2016
 
 **Responsable technique/architecte** Éditions Lefebvre-sarrut (Éditeur de logiciels juridique)
 
@@ -174,12 +174,9 @@ En charge d'une des deux features teams de la DSI Médiatransport, sur l'applica
 
 ----
 
-2005 - 2012
+Septembre 2005 - Mai 2012
 
 **Autres Expériences** Divers
-
-Développement sur l'ERP de Voltalis pour la gestion d'une flotte de thermostats connectés pour effectuer de l'effacement
-énergétique.
 
 Ingénieur R&D, Group-STS
 
@@ -191,12 +188,12 @@ Ingénieur Développement SI, SFR (Direction du SI entreprise) :
       * Évolutions sur le SI SFR
       * Technologies Java standard (Utilisation de framework de workflow)
 
-Ingénieur spécifications et développements, Orange : 2008-2009
+Ingénieur spécifications et développements, Orange
 
       * Développement Java sur les applications de contrôle et de mise à jours des devices oranges
       * Forte volumétrie de traffic client, à une époque ou la scalabilité des applications n'existait pas
 
-Ingénieur R&D, France Telecom R&D : 2005 - 2008
+Ingénieur R&D, France Telecom R&D
 
       * Prototype de services innovants dans un contexte IoT (avant que ça soit à la mode)
 
